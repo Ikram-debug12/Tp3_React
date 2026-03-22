@@ -1,17 +1,18 @@
-# TP Navigation React
-## Description
-Application React avec navigation SPA utilisant React Router DOM.
+<div align="center">
 
-## Technologies utilisées
+# ⚛️ TP Navigation React 
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Status](https://img.shields.io/badge/Status-✅%20Terminé-success?style=for-the-badge)
+
+> 🌐 Application React avec navigation SPA utilisant React Router DOM
+
+</div>
 
 ## L'exécution
 
 
-
+https://github.com/user-attachments/assets/d93106b3-c545-4924-847f-c8593c95eae1
 
 
 ### 1. Lancement
