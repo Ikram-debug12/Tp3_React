@@ -1,0 +1,9 @@
+.titre {
+  color: #8e44ad;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  border-bottom: 3px solid #8e44ad;
+  padding-bottom: 10px;
+}
